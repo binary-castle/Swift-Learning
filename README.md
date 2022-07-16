@@ -15,6 +15,7 @@ I learn Swift almost every day, and I'd like to share my progress with you. Feel
 - Switch cases and the `fallthrough` keyword
 - Optionals and unwrapping
 - Classes, `init` and `deinit`, retain cycles
+- Subscripts
 
 If you feel I have missed something, just let me know! ✨ 
 
