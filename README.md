@@ -16,6 +16,7 @@ I learn Swift almost every day, and I'd like to share my progress with you. Feel
 - Optionals and unwrapping
 - Classes, `init` and `deinit`, retain cycles
 - Subscripts
+- Protocols and conformance
 
 If you feel I have missed something, just let me know! ✨ 
 
