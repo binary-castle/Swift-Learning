@@ -17,6 +17,7 @@ I learn Swift almost every day, and I'd like to share my progress with you. Feel
 - Classes, `init` and `deinit`, retain cycles
 - Subscripts
 - Protocols and conformance
+- Generics ✨
 
 If you feel I have missed something, just let me know! ✨ 
 
