@@ -19,6 +19,7 @@ I learn Swift almost every day, and I'd like to share my progress with you. Feel
 - Protocols and conformance
 - Generics ✨
 - Custom Operators 😍
+- Property wrappers
 
 If you feel I have missed something, just let me know! ✨ 
 
