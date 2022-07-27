@@ -21,6 +21,7 @@ I learn Swift almost every day, and I'd like to share my progress with you. Feel
 - Custom Operators 😍
 - Property wrappers
 - Result builders
+- Concurrency with async/await, tasks, task groups and actors!
 
 If you feel I have missed something, just let me know! ✨ 
 
